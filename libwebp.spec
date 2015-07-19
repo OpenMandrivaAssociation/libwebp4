@@ -5,7 +5,7 @@
 Summary:	Library and tools for the WebP graphics format
 Name:		libwebp%{major}
 Version:	0.3.1
-Release:	9
+Release:	10
 Group:		Development/C
 # Additional IPR is licensed as well. See PATENTS file for details
 License:	BSD
