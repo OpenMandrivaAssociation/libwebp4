@@ -9,7 +9,7 @@ Release:	12
 Group:		Development/C
 # Additional IPR is licensed as well. See PATENTS file for details
 License:	BSD
-Url:		http://webmproject.org/
+Url:		https://webmproject.org/
 Source0:	http://webp.googlecode.com/files/libwebp-%{version}.tar.gz
 BuildRequires:	libtool
 BuildRequires:	swig
