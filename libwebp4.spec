@@ -11,6 +11,11 @@ Group:		Development/C
 License:	BSD
 Url:		https://webmproject.org/
 Source0:	http://webp.googlecode.com/files/libwebp-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	libtool
 BuildRequires:	swig
 BuildRequires:	jpeg-devel
